@@ -4,3 +4,4 @@ console.log('ek naya change');
 const hello = 'Hii';
 const firstname = 'sourabh';
 const lastname = 'Joshi';
+const age = 28;
